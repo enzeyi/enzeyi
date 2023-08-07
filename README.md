@@ -4,8 +4,10 @@
 </div>
 
 
-### Hello there, I am Emmanuel Enzeyi👋 
+ 
 <div align="center">
+
+### Hello there, I am Emmanuel Enzeyi👋
 
 [![WhatsApp Chat](https://img.shields.io/badge/Chat-on%20WhatsApp-brightgreen?logo=whatsapp&style=for-the-badge)](https://wa.me/254758800070) 
 
@@ -16,9 +18,9 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/EmmanuelEnzeyi?color=%231DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FEmmanuelEnzeyi&screen_name=EmmanuelEnzeyi)
 
 </div>
---- 
 
-## I am a lifelong learner striving to build sustainable teams, products and businesses. My purpose is to help as many people as I can to focus on doing the most important things in life.
+
+## I am a lifelong learner striving to build sustainable teams, products, businesses and helping as many people as I can to focus on doing the most important things in life.
 
 - Microsoft Learn Student Ambassador
 - Ex-Google Developer's Students Club Event Organizer
@@ -27,13 +29,11 @@
 - Currently training to become a full-stack engineer--open for internship and employment opportunities.
 - Aspiring MBA Student, Product Manager and business executive in the technology world.
 - Loves Information and technology
-- FRONT-END: 
-- BACK-END: 
+- FRONT-END: HTML5, CSS3, Bootstrap
+- BACK-END: PHP
 - DATABASE: 
+- OTHERS: C
 - CONTENT MANAGEMENT SYSTEMS: Wordpress
-
-
----
 
 
 <br />
