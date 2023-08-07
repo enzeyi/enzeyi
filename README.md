@@ -1,6 +1,6 @@
 <div align="center">
   <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" alt="Profile Image" />
-  <p>A lifelong learner building sustainable teams, products, businesses and helping as many people as I can, to focus on doing the most important things in life.</p>
+  <p>A lifelong learner building sustainable teams, products, businesses and, helping as many people as I can, to focus on doing the most important things in life.</p>
 </div>
 
 
@@ -11,7 +11,7 @@
 
 [![WhatsApp Chat](https://img.shields.io/badge/Chat-on%20WhatsApp-brightgreen?logo=whatsapp&style=for-the-badge)](https://wa.me/254758800070) 
 
-[![Connect on LinkedIn](https://img.shields.io/badge/Connect-on%20LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/emmanuelenzeyi)
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect-on%20LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/emmanuel-manu-enzeyi-139175279/)
 
 [![Send Email](https://img.shields.io/badge/Send%20Email-on%20Gmail-red?logo=gmail&style=for-the-badge)](mailto:emmanuelsiemaenzeyi@gmail.com)
 
