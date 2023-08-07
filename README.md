@@ -46,10 +46,10 @@
 ---
 
 <a href="https://github.com/enzeyi/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Cli4d&count_private=true&show_icons=true&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=enzeyi&count_private=true&show_icons=true&theme=gruvbox" />
 </a>
 <a href="https://github.com/enzeyi/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cli4d&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzeyi&layout=compact" />
 </a>
 
 ---
