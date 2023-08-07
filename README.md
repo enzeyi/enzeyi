@@ -21,7 +21,7 @@
 </div>
 
 
-## Here's a shallow ouline of who I am, you can always reach me out for deeper talks:
+## Here's a shallow outline of who I am, you can always reach me out for deeper talks:
 
 - Microsoft Learn Student Ambassador
 - Ex-Google Developer's Students Club Event Organizer
