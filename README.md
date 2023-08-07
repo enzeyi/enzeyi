@@ -7,7 +7,7 @@
  
 <div align="center">
 
-### Habari yako?👋 (swahili word for 'how are you?👋') 
+### Habari yako?👋 (swahili words for 'how are you?👋') 
 ### My name is Emmanuel Enzeyi
 
 [![WhatsApp Chat](https://img.shields.io/badge/Chat-on%20WhatsApp-brightgreen?logo=whatsapp&style=for-the-badge)](https://wa.me/254758800070) 
