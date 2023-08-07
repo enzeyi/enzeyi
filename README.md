@@ -69,3 +69,6 @@
 [twitter]: https://twitter.com/EmmanuelEnzeyi
 [linkedin]: https://linkedin.com/in/EmmanuelEnzeyi
 
+### Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
