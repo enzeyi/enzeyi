@@ -28,8 +28,13 @@
 
 ### Hello there, I am Emmanuel Enzeyi👋 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/EmmanuelEnzeyi?color=%231DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fclifford_ouma&screen_name=clifford_ouma)
+[![Twitter Follow](https://img.shields.io/twitter/follow/EmmanuelEnzeyi?color=%231DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FEmmanuelEnzeyi&screen_name=EmmanuelEnzeyi)
 
+[![WhatsApp Chat](https://img.shields.io/badge/Chat-on%20WhatsApp-brightgreen?logo=whatsapp&style=for-the-badge)](https://wa.me/254758800070) 
+
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect-on%20LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/emmanuelenzeyi)
+
+[![Send Email](https://img.shields.io/badge/Send%20Email-on%20Gmail-red?logo=gmail&style=for-the-badge)](mailto:emmanuelsiemaenzeyi@gmail.com)
 
 --- 
 
