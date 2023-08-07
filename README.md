@@ -3,31 +3,9 @@
   <p>A lifelong learner building sustainable teams, products, and businesses.</p>
 </div>
 
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/emmanuelenzeyi/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-<a href="https://twitter.com/EmmanuelEnzeyi">
-   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <a/>
- <a href="mailto:emmanuelenzeyi@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-   <a/>
-  <a href="https://wa.me/758800070"> 
-  <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="WhatsApp logo" />
-</a>
-
- 
-</div>
-
-###
-
-
 
 ### Hello there, I am Emmanuel Enzeyi👋 
-
+<div align="center">
 [![Twitter Follow](https://img.shields.io/twitter/follow/EmmanuelEnzeyi?color=%231DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FEmmanuelEnzeyi&screen_name=EmmanuelEnzeyi)
 
 [![WhatsApp Chat](https://img.shields.io/badge/Chat-on%20WhatsApp-brightgreen?logo=whatsapp&style=for-the-badge)](https://wa.me/254758800070) 
@@ -35,10 +13,10 @@
 [![Connect on LinkedIn](https://img.shields.io/badge/Connect-on%20LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/emmanuelenzeyi)
 
 [![Send Email](https://img.shields.io/badge/Send%20Email-on%20Gmail-red?logo=gmail&style=for-the-badge)](mailto:emmanuelsiemaenzeyi@gmail.com)
-
+</div>
 --- 
 
-## I am a lifelong learner striving to build sustainable teams, products and businesses. My purpose is to help as many people as I can to do the right things.
+## I am a lifelong learner striving to build sustainable teams, products and businesses. My purpose is to help as many people as I can to focus on doing the most important things in life.
 
 - Microsoft Learn Student Ambassador
 - Ex-Google Developer's Students Club Event Organizer
