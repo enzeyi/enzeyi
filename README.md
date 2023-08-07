@@ -20,7 +20,7 @@
 </div>
 
 
-## I am a lifelong learner striving to build sustainable teams, products, businesses and helping as many people as I can, to focus on doing the most important things in life.
+## Here's a shallow ouline of who I am, you can always reach me out for deeper talks:
 
 - Microsoft Learn Student Ambassador
 - Ex-Google Developer's Students Club Event Organizer
