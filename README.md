@@ -14,6 +14,11 @@
 - Currently training to become a full-stack engineer--open for internship and employment opportunities.
 - Aspiring MBA Student, Product Manager and business executive in the technology world.
 - Loves Information and technology
+- FRONT-END: 
+- BACK-END: 
+- DATABASE: 
+- CONTENT MANAGEMENT SYSTEMS: Wordpress
+
 
 ---
 
