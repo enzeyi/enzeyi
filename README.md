@@ -30,11 +30,22 @@
 - Currently training to become a full-stack engineer--open for internship and employment opportunities.
 - Aspiring MBA Student, Product Manager and business executive in the technology world.
 - Loves Information and technology
-- FRONT-END: HTML5, CSS3, Bootstrap
-- BACK-END: PHP
-- DATABASE: 
-- OTHERS: C
-- CONTENT MANAGEMENT SYSTEMS: Wordpress
+
+I'm majorly focused on AI and Data-Driven Full Stack development, BUT open to play outside the box. These are the skills I'm currently training on:(Please check the "my skills" section on my linkedin profile for accurate updates on the skills I have already acquired. My Whatsapp is: +254758800070
+
+-FRONT-END: HTML, CSS, JavaScript, React, Angular, Vue.js, Data visualization libraries (D3.js, plotly) and Dashboard Frameworks.
+
+-BACK-END: Node.js, Python(Django & Flask), PHP, database management (MySQL, PostgreSQL & MongoDB), API Design & Integration and Machine Learning Models.
+
+-DATABASE & STORAGE: Designing and maintainig databases, data modelling and query optimization
+
+-VERSION CONTROL: Git, Gitlab, Bitbucket and Github
+
+-DevOps: Deployment & Hosting (AWS, Heroku, Google Cloud & Digital Ocean), containerization using docker and orchestration using kubernetes, Continour Integration(CI) and Continous Deployment(CD)
+
+-DATA HANDLING: Data preprocessing, cleaning & storage and big data technologies (Hadoop and Spark)
+
+-ADDITIONALS: Networking & Server Architecture, Testing (unit,integration & end-to-end), and security best practices.
 
 
 <br />
