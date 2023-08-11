@@ -25,7 +25,7 @@
 
 - Microsoft Learn Student Ambassador
 - Ex-Google Developer's Students Club Event Organizer
-- Software Engineering Student at Africa Leadership Accelerator Program (ALX)
+- Software Engineering Student at Africa Leadership Accelerator Program (ALX) & at Meta
 - Psychology Student at Moi University in Eldoret, Kenya
 - Currently training to become a full-stack engineer--open for internship and employment opportunities.
 - Aspiring MBA Student, Product Manager and business executive in the technology world.
