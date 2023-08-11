@@ -31,7 +31,7 @@
 - Aspiring MBA Student, Product Manager and business executive in the technology world.
 - Loves Information and technology
 
-I'm majorly focused on AI and Data-Driven Full Stack development, BUT open to play outside the box. These are the skills I'm currently training on:(Please check the "my skills" section on my linkedin profile for accurate updates on the skills I have already acquired. My Whatsapp is: +254758800070
+I'm majorly focused on AI and Data-Driven Full Stack development, BUT open to play outside the box. These are the skills I'm currently training on:(Please check the "skills" section on my linkedin profile for accurate updates on the skills I have already acquired. My Whatsapp is: +254758800070
 
 -FRONT-END: HTML, CSS, JavaScript, React, Angular, Vue.js, Data visualization libraries (D3.js, plotly) and Dashboard Frameworks.
 
