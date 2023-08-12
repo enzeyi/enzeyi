@@ -1,6 +1,6 @@
 <div align="center">
   <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" alt="Profile Image" />
-  <p>A lifelong learner, building sustainable teams,products & businesses.Guiding others to do what is right & to focus on the most important things in their lives.</p>
+  <p>Guiding others to do what is right & to focus on the most important things in their lives.</p>
 </div>
 
 
@@ -31,22 +31,48 @@
 - Aspiring MBA Student, Product Manager and business executive in the technology world.
 - Loves Information and technology
 
-I'm majorly focused on AI and Data-Driven Full Stack development, BUT open to play outside the box. These are the skills I'm currently training on:(Please check the "skills" section on my linkedin profile for accurate updates on the skills I have already acquired. My Whatsapp is: +254758800070
+I am currently under fullstack software engineering training at META(via the Blacks in tech scholarship) and also at ALX
 
--FRONT-END: HTML, CSS, JavaScript, React, Angular, Vue.js, Data visualization libraries (D3.js, plotly) and Dashboard Frameworks.
+I'm open for internship and junior roles positions.
 
--BACK-END: Node.js, Python(Django & Flask), PHP, database management (MySQL, PostgreSQL & MongoDB), API Design & Integration and Machine Learning Models.
+I'm majorly focused on Cybersecurity-Full Stack development, BUT open to play outside the box. These are the skills I'm currently training on:(Please check the "skills" section on my linkedin profile for accurate updates on the skills I have already acquired. My Whatsapp is: +254758800070
 
--DATABASE & STORAGE: Designing and maintainig databases, data modelling and query optimization
+★ WEB DEVELOPMENT
+Front-End: HTML, CSS, JavaScript (ES6+), React and Vue.js (for building modern and responsive user 
+interfaces).
+Back-End: Node.js (for JavaScript-based server-side development), Express.js (for building APIs and handling server-side logic).
 
--VERSION CONTROL: Git, Gitlab, Bitbucket and Github
+★ DATABASE MANAGEMENT
+-MySQL, PostgreSQL (for structured data storage and retrieval).
+-MongoDB (for handling unstructured or semi-structured data).
 
--DevOps: Deployment & Hosting (AWS, Heroku, Google Cloud & Digital Ocean), containerization using docker and orchestration using kubernetes, Continour Integration(CI) and Continous Deployment(CD)
+★ SERVER MANAGEMENT
+Linux commands and server administration.
+Docker Containerization for efficient deployment and scaling of applications.
+ 
+★ CYBERSECURITY
+Network Security: network protocols, firewalls, intrusion detection systems (IDS) and intrusion prevention systems (IPS).
+Web Security: common web vulnerabilities like Cross-Site Scripting (XSS), Cross-Site Request Forgery (CSRF) and SQL Injection
+Cryptography: encryption, decryption, hashing, digital signatures, and protocols like SSL/TLS.
+Security Tools: Wireshark, Nmap, Metasploit, Burp Suite, and OWASP Zap.
 
--DATA HANDLING: Data preprocessing, cleaning & storage and big data technologies (Hadoop and Spark)
+★ CYBERSECURITY PROGRAMMING LANGUAGES
+Python: scripting, automation, and building security tools.
+C/C++: for low-level security vulnerabilities and exploits.
+Java: for enterprise environments and Android app development.
 
--ADDITIONALS: Networking & Server Architecture, Testing (unit,integration & end-to-end), and security best practices.
+★ VERSION CONTROL
+Git for collaborative development and version control.
 
+★ CLOUD TECHNOLOGIES
+Amazon Web Services (AWS), Microsoft Azure and Google Cloud Platform
+Continuous Integration and Deployment (CI/CD) pipelines for automating testing, building, and deploying applications.
+
+★ SECURITY CERTIFICATIONS
+CompTIA Security+, Certified Information Systems Security Professional (CISSP), Certified Ethical Hacker (CEH), and Certified Cloud Security Professional (CCSP).
+
+★ Soft Skills:
+Effective communication, problem-solving, critical thinking, and the ability to learn and adapt quickly
 
 <br />
 
