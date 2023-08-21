@@ -33,46 +33,8 @@
 
 I am currently under fullstack software engineering training at META(via the Blacks in tech scholarship) and also at ALX
 
-I'm open for internship and junior roles positions.
+I'm open for internship and junior roles positions in software engineering, product management or business administration.
 
-I'm majorly focused on Cybersecurity-Full Stack development, BUT open to play outside the box. These are the skills I'm currently training on:(Please check the "skills" section on my linkedin profile for accurate updates on the skills I have already acquired. My Whatsapp is: +254758800070
-
-★ WEB DEVELOPMENT
-Front-End: HTML, CSS, JavaScript (ES6+), React and Vue.js (for building modern and responsive user 
-interfaces).
-Back-End: Node.js (for JavaScript-based server-side development), Express.js (for building APIs and handling server-side logic).
-
-★ DATABASE MANAGEMENT
--MySQL, PostgreSQL (for structured data storage and retrieval).
--MongoDB (for handling unstructured or semi-structured data).
-
-★ SERVER MANAGEMENT
-Linux commands and server administration.
-Docker Containerization for efficient deployment and scaling of applications.
- 
-★ CYBERSECURITY
-Network Security: network protocols, firewalls, intrusion detection systems (IDS) and intrusion prevention systems (IPS).
-Web Security: common web vulnerabilities like Cross-Site Scripting (XSS), Cross-Site Request Forgery (CSRF) and SQL Injection
-Cryptography: encryption, decryption, hashing, digital signatures, and protocols like SSL/TLS.
-Security Tools: Wireshark, Nmap, Metasploit, Burp Suite, and OWASP Zap.
-
-★ CYBERSECURITY PROGRAMMING LANGUAGES
-Python: scripting, automation, and building security tools.
-C/C++: for low-level security vulnerabilities and exploits.
-Java: for enterprise environments and Android app development.
-
-★ VERSION CONTROL
-Git for collaborative development and version control.
-
-★ CLOUD TECHNOLOGIES
-Amazon Web Services (AWS), Microsoft Azure and Google Cloud Platform
-Continuous Integration and Deployment (CI/CD) pipelines for automating testing, building, and deploying applications.
-
-★ SECURITY CERTIFICATIONS
-CompTIA Security+, Certified Information Systems Security Professional (CISSP), Certified Ethical Hacker (CEH), and Certified Cloud Security Professional (CCSP).
-
-★ Soft Skills:
-Effective communication, problem-solving, critical thinking, and the ability to learn and adapt quickly
 
 <br />
 
