@@ -21,21 +21,27 @@
 </div>
 
 
-## Here's a shallow outline of who I am, you can always reach me out for deeper talks:
+##Here's a shallow outline of who I am, You can always reach out for deeper talks:
 
-- Microsoft Learn Student Ambassador
-- Ex-Google Developer's Students Club Event Organizer
-- Software Engineering Student at Africa Leadership Accelerator Program (ALX) & at Meta
-- Psychology Student at Moi University in Eldoret, Kenya
-- Currently training to become a full-stack engineer--open for internship and employment opportunities.
-- Aspiring MBA Student, Product Manager and business executive in the technology world.
-- Loves Information and technology
+•Actively a Beta Microsoft Learn Student Ambassador(MLSA)
 
-I am currently under fullstack software engineering training at META(via the Blacks in tech scholarship) and also at ALX
+•2X Google Developer Students' Club (GDSC) Event Organizer (2022-PRESENT)
 
-I'm open for internship and junior roles positions in software engineering, product management or business administration.
+•Software Developer(C,Python & JavaScript)
 
+•Third-year Psychology Student at Moi University in Eldoret, Kenya, expecting graduation in 2025
 
+•Actively applying for internship and remote employment opportunities as a software engineer/educator.
+
+•Aspiring MBA Student, Product Manager, and business executive in the technology world.
+
+•A Lover of Information and technology
+
+•Protagonist ENFJ-A Personality Type. (Extraverted, Intuitive, Feeling, Judging, and Assertive)
+
+"My purpose is to  bring out the best in people, to help them do the right things,and  to focus on the most important things in their lives"
+
+"My vision is to improve the lives of as many people as possible using technology"
 <br />
 
 ---
