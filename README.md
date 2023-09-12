@@ -39,9 +39,9 @@
 
 •Protagonist ENFJ-A Personality Type. (Extraverted, Intuitive, Feeling, Judging, and Assertive)
 
-"My purpose is to  bring out the best in people, to help them do the right things,and  to focus on the most important things in their lives"
+"My purpose is to  bring out the best in people, to help them do the right things, and  to focus on the most important things in their lives"
 
-"My vision is to improve the lives of as many people as possible using technology"
+"My vision is to improve the lives of as many people as possible using technology and neuroscience"
 <br />
 
 ---
