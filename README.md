@@ -37,7 +37,7 @@
 
 •A Lover of Technology & Neuroscience
 
-•Protagonist ENFJ-A Personality Type. (Extraverted, Intuitive, Feeling, Judging, and Assertive)
+•Protagonist ENFJ-A Personality Type. (Extraverted, Intuitive, Feeling, Judging, and Assertive) PS:Sometime a perfectionist
 
 "My purpose is to  bring out the best in people by guiding them to do what they are supposed to do, when they are supposed to be doing it!"
 
