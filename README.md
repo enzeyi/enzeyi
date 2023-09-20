@@ -1,6 +1,6 @@
 <div align="center">
   <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" alt="Profile Image" />
-  <p>I bring out the best in others by guiding them to do what they are supposed to do when they are supposed to be doing it. I am currently a self-employed software developer/educator. I have a keen interest in business, technology, neuroscience & personal development. I wanna use my life to challenge the status quo in the tech-business realm. </p>
+  <p>I am currently a student of Psychology and Software Engineering. I am using my passions in technology and neuroscience to improve the lives of as many people as possible</p>
 </div>
 
 
@@ -38,10 +38,6 @@
 •A Lover of Technology & Neuroscience
 
 •Protagonist ENFJ-A Personality Type. (Extraverted, Intuitive, Feeling, Judging, and Assertive) PS: Sometimes a perfectionist
-
-"My purpose is to  bring out the best in as many people as possible by guiding them to do what they are supposed to do when they are supposed to be doing it!"
-
-"My vision is to go down in history as a man who challenged the status quo in the technology-business world!"
 <br />
 
 ---
