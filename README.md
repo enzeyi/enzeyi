@@ -35,7 +35,7 @@
 
 •Aspiring MBA Student, Product Manager, and business executive in the technology world.
 
-•A Lover of Neuroscience, Technology, & Neuroscience
+•A Lover of Technology, Neuroscience & Business
 
 •Protagonist ENFJ-A Personality Type. (Extraverted, Intuitive, Feeling, Judging, and Assertive) PS: Sometimes a perfectionist
 <br />
