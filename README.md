@@ -1,6 +1,6 @@
 <div align="center">
   <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" alt="Profile Image" />
-  <p>I am currently a student of Psychology and Software Engineering. I wanna use technology and neuroscience to help improve the lives of as many neuro-patients as possible.</p>
+  <p>My life's purpose is to bring out the best in others, with a special focus in the tech world individuals, users, organizations and companies</p>
 </div>
 
 
@@ -27,7 +27,7 @@
 
 •2X Google Developer Students' Club (GDSC) Event Organizer (2022-PRESENT)
 
-•Software Developer(C,Python & JavaScript)
+•Software Developer(WEB + ML)
 
 •Third-year Psychology Student at Moi University in Eldoret, Kenya, expecting graduation in 2025
 
