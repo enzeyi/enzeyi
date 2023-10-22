@@ -27,17 +27,18 @@
 
 •2X Google Developer Students' Club (GDSC) Event Organizer (2022-PRESENT)
 
-•Software Developer(WEB + ML)
+•Software Developer (Front-End)
 
 •Third-year Psychology Student at Moi University in Eldoret, Kenya, expecting graduation in 2025
 
-•Actively applying for internship and remote employment opportunities as a software engineer/educator.
+•Actively applying for internship and remote employment opportunities as a front-end software engineer.
 
 •Aspiring MBA Student, Product Manager, and business executive in the technology world.
 
-•A Lover of Technology, Neuroscience & Business
+•A Lover of Business, Technology & Neuroscience
 
-•Protagonist ENFJ-A Personality Type. (Extraverted, Intuitive, Feeling, Judging, and Assertive) PS: Sometimes a perfectionist
+•Protagonist ENFJ-A Personality Type. (Extraverted, Intuitive, Feeling, Judging, and Assertive) Sometimes a perfectionist :(
+
 <br />
 
 ---
