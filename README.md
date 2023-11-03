@@ -1,6 +1,6 @@
 <div align="center">
   <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" alt="Profile Image" />
-  <p>I am on a mission to bring out the best in everyone I'll ever get an opportunity to interact with and to understand the pain points that the users of given products undergo. </p>
+  <p>Making technology a blessing to humanity; I was born specifically for this. I think about this every single second wether conciously consciously or unconsciously. I'm open to any position relevant to helping me pursue my life's purpose. But just so you know, I do write computer codes using Python and Javascript , and I am also passionate about product management.</p>
 </div>
 
 
