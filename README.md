@@ -1,6 +1,6 @@
 <div align="center">
   <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" alt="Profile Image" />
-  <p>Making technology a blessing to humanity; I was born specifically for this. I think about this every single second wether conciously consciously or unconsciously. I'm open to any position relevant to helping me pursue my life's purpose. But just so you know, I do write computer codes using Python and Javascript , and I am also passionate about product management.</p>
+  <p>Making technology a blessing to humanity; I was born specifically for this. I think about this every single second wether conciously consciously or unconsciously. I'm open to any position relevant to helping me pursue my life's purpose. But just so you know, I do write computer code using Python and Javascript , and I am also passionate about product management.</p>
 </div>
 
 
@@ -20,22 +20,21 @@
 
 </div>
 
-
-##Here's a shallow outline of who I am, You can always reach out for deeper talks:
+Here's a shallow outline of who I am, You can always reach out for deeper talks via email (emmanuelsiemaenzeyi@gmail.com)
 
 •Actively a Beta Microsoft Learn Student Ambassador(MLSA)
 
-•2X Google Developer Students' Club (GDSC) Event Organizer (2022-PRESENT)
+•2X Google Developer Students' Club (GDSC) Events Organizer (2022-PRESENT)
 
-•Software Developer (Front-End)
+•2X Missions Coordinator at an organization called NUSETA (2022-PRESENT)
+
+•Software Developer (Python & JavaScript)
 
 •Third-year Psychology Student at Moi University in Eldoret, Kenya, expecting graduation in 2025
 
-•Actively applying for internship and remote employment opportunities as a front-end software engineer.
-
 •Aspiring MBA Student, Product Manager, and business executive in the technology world.
 
-•A Lover of Business, Technology & Neuroscience
+•A Lover of Business, Technology, Neuroscience & Humanity
 
 •Protagonist ENFJ-A Personality Type. (Extraverted, Intuitive, Feeling, Judging, and Assertive) Sometimes a perfectionist :(
 
