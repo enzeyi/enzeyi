@@ -20,7 +20,7 @@
 
 </div>
 
-Here's a shallow outline of who I am, You can always reach out for deeper talks via email (emmanuelsiemaenzeyi@gmail.com)
+Here's a shallow outline of who I am, You can always reach out for deeper talks via the listed channels above.
 
 •Actively a Beta Microsoft Learn Student Ambassador(MLSA)
 
@@ -28,13 +28,13 @@ Here's a shallow outline of who I am, You can always reach out for deeper talks 
 
 •2X Missions Coordinator at an organization called NUSETA (2022-PRESENT)
 
-•Software Developer (Python & JavaScript)
+•Software Developer (MERN Stack)
 
 •Third-year Psychology Student at Moi University in Eldoret, Kenya, expecting graduation in 2025
 
 •Aspiring MBA Student, Product Manager, and business executive in the technology world.
 
-•A Lover of Business, Technology, Neuroscience & Humanity
+•A Lover of Business, Technology, Mentorship & Humanity
 
 •Protagonist ENFJ-A Personality Type. (Extraverted, Intuitive, Feeling, Judging, and Assertive) Sometimes a perfectionist :(
 
