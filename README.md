@@ -1,14 +1,6 @@
-<!--<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" alt="Profile Image" />
-  <p>Making technology a blessing to humanity; I was born specifically for this. I think about this every single second whether consciously or unconsciously. I'm open to any opportunity relevant to helping me pursue my life's purpose. But just so you know, I do write computer code using Python and Javascript, and I am also passionate about product management.</p>
-</div>-->
-
-
- 
 <div align="center">
 
-### Habari yako?👋 (swahili words for 'how are you?👋') 
-### My name is Emmanuel Enzeyi
+### Shalom! My name is Emmanuel Enzeyi
 
 [![WhatsApp Chat](https://img.shields.io/badge/Chat-on%20WhatsApp-brightgreen?logo=whatsapp&style=for-the-badge)](https://wa.me/254758800070) 
 
@@ -20,23 +12,16 @@
 
 </div>
 
-Here's a shallow outline of who I am, You can always reach out for deeper talks via the listed channels above.
+Every solution to a problem is a product, I believe. As a technology businessman, I approach each challenge as an opportunity to craft a tailored solution that satisfies the end user. My mission? To chase excellence by ensuring that every solution fits into the user's world, alleviating their pain points with precision and finesse.
 
-•Actively a Beta Microsoft Learn Student Ambassador(MLSA)
+Key Skills:
+🔹 Software Engineering (Python & JavaScript)
+🔹 Product Management
+🔹 Business Administration
 
-•2X Google Developer Students' Club (GDSC) Events Organizer (2022-PRESENT)
+But it's not just about solving problems; it's about creating experiences. I infuse every solution with positive energy, ensuring that users not only find what they need but also feel empowered and satisfied.
 
-•2X Missions Coordinator at an organization called NUSETA (2022-PRESENT)
-
-•Software Developer (MERN Stack)
-
-•Third-year Psychology Student at Moi University in Eldoret, Kenya, expecting graduation in 2025
-
-•Aspiring MBA Student, Product Manager, and business executive in the technology world.
-
-•A Lover of Business, Technology, Mentorship & Humanity
-
-•Protagonist ENFJ-A Personality Type. (Extraverted, Intuitive, Feeling, Judging, and Assertive) Sometimes a perfectionist :(
+Let's collaborate and craft solutions that not only meet but exceed expectations, driving innovation and excellence in the digital realm!
 
 <br />
 
@@ -46,12 +31,8 @@ Here's a shallow outline of who I am, You can always reach out for deeper talks 
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />]
-[<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
-[<img align="left" alt="Wordpress" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" />]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 
 
 <br />
